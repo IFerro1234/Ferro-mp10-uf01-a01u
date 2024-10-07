@@ -16,28 +16,31 @@
   ### Correu Electrónic: juan.perez@innovax.com
   ### Foto: 
 
+
 ## Treballador2
-  ### Nom Cognom:
-  ### NIF: 
-  ### Numero de Seguretat Social:
-  ### Direcció Postal:
-  ### Correu Electrónic:
+  ### Nom Cognom: María López	
+  ### NIF: 23456789A	
+  ### Numero de Seguretat Social: 234-56-7890	
+  ### Direcció Postal: Calle del Futuro, 789	
+  ### Correu Electrónic: maria.lopez@innovax.com	
   ### Foto:
 
+
 ## Treballador3
-  ### Nom Cognom:
-  ### NIF: 
-  ### Numero de Seguretat Social:
-  ### Direcció Postal:
-  ### Correu Electrónic:
+  ### Nom Cognom: Carlos Gómez	
+  ### NIF: 34567890B
+  ### Numero de Seguretat Social: 345-67-8901	
+  ### Direcció Postal: Plaza de la Creatividad, 321	
+  ### Correu Electrónic: carlos.gomez@innovax.com	
   ### Foto:
+
   
 ## Treballador4
-  ### Nom Cognom:
-  ### NIF: 
-  ### Numero de Seguretat Social:
-  ### Direcció Postal:
-  ### Correu Electrónic:
+  ### Nom Cognom: Laura Martínez	
+  ### NIF: 45678901C	
+  ### Numero de Seguretat Social: 456-78-9012	
+  ### Direcció Postal: Camino de la Innovación, 654	
+  ### Correu Electrónic: laura.martinez@innovax.com	
   ### Foto:
 
   
