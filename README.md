@@ -8,9 +8,36 @@
 
 # Treballadors:
 
-## Juan Pérez	
+## Trebalador1
+  ### Nom Cognom: Juan Pérez	
   ### NIF: 12345678Z
-  ### Número de Seguridad Social: 123-45-6789	
+  ### Número de Seguretat Social: 123-45-6789	
   ### Direcció Postal: Avenida de la Innovación, 456	
-  ### Correo Electrónico: juan.perez@innovax.com
+  ### Correu Electrónic: juan.perez@innovax.com
   ### Foto: 
+
+## Treballador2
+  ### Nom Cognom:
+  ### NIF: 
+  ### Numero de Seguretat Social:
+  ### Direcció Postal:
+  ### Correu Electrónic:
+  ### Foto:
+
+## Treballador3
+  ### Nom Cognom:
+  ### NIF: 
+  ### Numero de Seguretat Social:
+  ### Direcció Postal:
+  ### Correu Electrónic:
+  ### Foto:
+  
+## Treballador4
+  ### Nom Cognom:
+  ### NIF: 
+  ### Numero de Seguretat Social:
+  ### Direcció Postal:
+  ### Correu Electrónic:
+  ### Foto:
+
+  
