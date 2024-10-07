@@ -47,21 +47,21 @@
 # Clients:
 
   
-  ## CLient1:
+  ## Client1:
     ### Nom Cognom: Antonio Ruiz	 	
     ### NIF: 98765432X	
     ### Direcció Postal: Calle del Progreso, 101	
     ### Correu Electrónic: antonio.ruiz@email.com
     
   
-  ## CLient2:
+  ## Client2:
     ### Nom Cognom: Teresa Fernández	
     ### NIF: 87654321Y	
     ### Direcció Postal: Avenida de la Esperanza, 202		
     ### Correu Electrónic: teresa.fernandez@email.com
   
   
-  ## CLient3:
+  ## Client3:
     ### Nom Cognom: Javier Sánchez		
     ### NIF: 76543210Z	
     ### Direcció Postal: Plaza de la Innovación, 303		
@@ -69,12 +69,23 @@
 
   
   
-  ## CLient4:
+  ## Client4:
     ### Nom Cognom: Rosa Martín	
     ### NIF: 65432109W	
     ### Direcció Postal: Camino de la Creatividad, 404	 	
     ### Correu Electrónic: rosa.martin@email.com
-    
+
+
+
+# Treballadors:
+
+  ## Trebalador1
+    ### Nom Cognom: Juan Pérez	
+    ### NIF: 12345678Z
+    ### Número de Seguretat Social: 123-45-6789	
+    ### Direcció Postal: Avenida de la Innovación, 456	
+    ### Correu Electrónic: juan.perez@innovax.com
+    ### Foto: 
 
     
   
