@@ -1,12 +1,12 @@
 # Ferro-mp10-uf01-a01u
-# Empresa: 
-  ## IMNOVAX
+## Empresa: 
+    ### Nom Empresa: Imnomax	
     ### NIF: B12345678
     ### Postal: Calle de la Innovación, 123
     ### Correu electrònic: contacto@innovax.com	
     ### Pàgina web: 	www.innovax.com
 
-# Treballadors:
+## Treballadors:
 
   ## Trebalador1
     ### Nom Cognom: Juan Pérez	
