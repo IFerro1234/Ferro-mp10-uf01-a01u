@@ -1,0 +1,36 @@
+id,nombre,descripció,preu,categoria_id
+1,Telèfon intel·ligent,Descripció del producte,699.99,1
+2,Ordinador portàtil,Descripció del producte,1199.99,1
+3,Auriculars Bluetooth,Descripció del producte,49.99,1
+4,Smartwatch,Descripció del producte,199.99,1
+5,Tablet,Descripció del producte,329.99,1
+6,Robot de cuina,Descripció del producte,299.99,2
+7,Drons,Descripció del producte,499.99,2
+8,Kit Arduino,Descripció del producte,79.99,2
+9,Cotxes RC,Descripció del producte,39.99,2
+10,Raspberry Pi,Descripció del producte,49.99,2
+11,Pilota de futbol,Descripció del producte,29.99,3
+12,Raqueta de tennis,Descripció del producte,89.99,3
+13,Bicicleta de muntanya,Descripció del producte,549.99,3
+14,Tapis rodant,Descripció del producte,799.99,3
+15,Casc de ciclisme,Descripció del producte,49.99,3
+16,Impressora làser,Descripció del producte,149.99,4
+17,Escàner,Descripció del producte,99.99,4
+18,Projector,Descripció del producte,299.99,4
+19,Cadira ergonòmica,Descripció del producte,199.99,4
+20,Escriptori ajustable,Descripció del producte,399.99,4
+21,Frigorífic,Descripció del producte,899.99,5
+22,Microones,Descripció del producte,149.99,5
+23,Aspiradora,Descripció del producte,129.99,5
+24,Rentaplats,Descripció del producte,699.99,5
+25,Rentadora,Descripció del producte,499.99,5
+26,Ganivets de cuina,Descripció del producte,59.99,6
+27,Set d'olla a pressió,Descripció del producte,99.99,6
+28,Torradora,Descripció del producte,29.99,6
+29,Batedora,Descripció del producte,79.99,6
+30,Espremedora,Descripció del producte,49.99,6
+31,Novel·la de ciència-ficció,Descripció del producte,19.99,7
+32,Manual tècnic,Descripció del producte,24.99,7
+33,Diccionari,Descripció del producte,39.99,7
+34,Guia de viatges,Descripció del producte,14.99,7
+35,Llibre infantil,Descripció del producte,29.99,7
